@@ -1,0 +1,17 @@
+{
+  "block": {
+    "value": "26381121",
+    "checkedAt": "2026-11-10T01:08:35.225Z",
+    "source": "https://ethereum-rpc.publicnode.com"
+  },
+  "gas": {
+    "value": "63369491",
+    "checkedAt": "2026-11-10T01:08:35.227Z",
+    "source": "https://ethereum-rpc.publicnode.com"
+  },
+  "bitcoin": {
+    "value": "975230",
+    "checkedAt": "2026-11-10T01:08:35.710Z",
+    "source": "https://mempool.space/api/blocks/tip/height"
+  }
+}

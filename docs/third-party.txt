@@ -1,0 +1,9 @@
+Welcome to IPFS ? official documentation example
+Copyright (c) Protocol Labs, Inc.
+Source: https://docs.ipfs.tech/quickstart/retrieve/
+Original file: https://github.com/ipfs/ipfs-docs/blob/main/docs/quickstart/images/welcome-to-IPFS.jpg
+Repository license statement: https://github.com/ipfs/ipfs-docs#license
+Documentation content license linked by the original repository: Creative Commons Attribution 4.0
+https://creativecommons.org/licenses/by/4.0/
+Unmodified original image; original content identifier retained.
+CID: bafkreie7ohywtosou76tasm7j63yigtzxe7d5zqus4zu3j6oltvgtibeom
